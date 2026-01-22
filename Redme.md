@@ -1,5 +1,6 @@
 # JAvavavavava
-<img width="1397" height="915" alt="Screenshot 2026-01-22 142637" src="https://github.com/user-attachments/assets/87eb3281-b49c-4730-a68d-067dccd921a4" />
+<img width="1393" height="991" alt="Screenshot 2026-01-22 143530" src="https://github.com/user-attachments/assets/b49d8eac-c4d4-4cfe-90df-cafac163856d" />
+
 
 Краткий отчёт по программе «Студенты»
 
